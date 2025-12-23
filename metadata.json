@@ -1,0 +1,8 @@
+{
+    "name": "LLM Search Toolkit",
+    "description": "Combines user and AI-initiated web searches with visual feedback",
+    "version": "1.0",
+    "author": "SapixIV",
+    "requirements": ["sillytavern>=1.15.0"],
+    "domains": ["https://api.duckduckgo.com"]
+}
