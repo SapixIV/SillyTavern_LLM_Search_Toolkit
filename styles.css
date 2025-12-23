@@ -1,0 +1,36 @@
+/* Search prompts */
+.sillytavern-message[data-author="SearchToolkit"] {
+    border-left: 4px solid #9C27B0;
+    padding: 12px;
+    background: rgba(156, 39, 176, 0.05);
+}
+
+.search-prompt {
+    font-weight: bold;
+    color: #7B1FA2;
+}
+
+.search-query {
+    padding: 8px;
+    margin: 6px 0;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 4px;
+    font-family: monospace;
+}
+
+/* User search results */
+.search-result {
+    border-left: 4px solid #2196F3;
+    padding-left: 12px;
+}
+
+/* System messages */
+.system-message-error {
+    color: #F44336;
+    font-style: italic;
+}
+
+.system-message-success {
+    color: #4CAF50;
+    font-style: italic;
+}
